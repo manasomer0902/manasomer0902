@@ -2,11 +2,12 @@
 <h3 align="center">Aspiring Full Stack Developer | DSA Enthusiast | Android Learner</h3>
 
 <p align="center">
-  🔧 Creator of <b>TechRiseDaily</b> | 📍 India  
+  📺 <a href="https://www.youtube.com/@TechRiseDaily" target="_blank"><b>TechRiseDaily</b></a> | 📍 India
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Learning+DSA+in+Java+💻;Full+Stack+MERN+Development+🌐;Android+Development+with+Java+%26+Kotlin+📱;Documenting+my+Tech+Journey+daily+📚;Welcome+to+TechRiseDaily+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Learning+DSA+in+Java+💻;Full+Stack+MERN+Development+🌐;Android+Development+with+Java+%26+Kotlin+📱;Welcome+to+TechRiseDaily+🚀" />
 </p>
 
 ---
@@ -14,15 +15,15 @@
 ### 🚀 What I'm Doing Now
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&width=1000&center=true&lines=📚+Learning+DSA+using+Java+on+LeetCode+%2B+GFG;🌐+Building+Full+Stack+Projects+with+MERN+Stack;📱+Android+App+Development+with+Java+%26+Kotlin;📸+Sharing+my+daily+journey+on+Instagram+and+YouTube" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&width=1000&center=true&lines=📚+Learning+DSA+using+Java+on+LeetCode+%2B+GFG;🌐+Building+Full+Stack+Projects+with+MERN+Stack;📱+Android+App+Development+with+Java+%26+Kotlin;📸+Sharing+my+daily+journey+on+Instagram+and+YouTube" />
 </p>
 
 ---
 
-### 🛠 Tech Stack (Animated - Dark)
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=1000&lines=Languages%3A+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+Kotlin+%7C+HTML+%7C+CSS;Frontend%3A+React+%7C+Redux+%7C+Bootstrap+%7C+TailwindCSS;Backend%3A+Node.js+%7C+Express.js+%7C+MongoDB;Tools%3A+Git+%7C+GitHub+%7C+VSCode+%7C+Android+Studio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=1000&lines=Languages%3A+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+Kotlin+%7C+HTML+%7C+CSS;Frontend%3A+React+%7C+Redux+%7C+TailwindCSS;Backend%3A+Node.js+%7C+Express.js+%7C+MongoDB;Tools%3A+Git+%7C+GitHub+%7C+VSCode+%7C+Android+Studio" />
 </p>
 
 ---
@@ -62,7 +63,7 @@
 ### 💬 Quote That Drives Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=16F7A6&center=true&width=800&lines=✨+“Consistency+is+more+powerful+than+intensity.”+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=16F7A6&center=true&width=800&lines=✨+“Consistency+is+more+powerful+than+intensity.”+✨" />
 </p>
 
 ---
