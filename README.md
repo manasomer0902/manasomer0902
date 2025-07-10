@@ -23,7 +23,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=1000&lines=Languages%3A+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+Kotlin+%7C+HTML+%7C+CSS;Frontend%3A+React+%7C+Redux+%7C+TailwindCSS;Backend%3A+Node.js+%7C+Express.js+%7C+MongoDB;Tools%3A+Git+%7C+GitHub+%7C+VSCode+%7C+Android+Studio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=1000&lines=Languages%3A+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+Kotlin;Frontend%3A+HTML+%7C+CSS+%7C+JavaScript;Backend%3A+MongoDB+%7C+Express.JS+%7C+React.JS+%7C+Redux+%7C+Node.JS;Tools%3A+Git+%7C+GitHub+%7C+VSCode+%7C+Android+Studio" />
 </p>
 
 ---
@@ -63,8 +63,9 @@
 ### 💬 Quote That Drives Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=16F7A6&center=true&width=800&lines=✨+“Consistency+is+more+powerful+than+intensity.”+✨" />
+  ✨ <strong>“Consistency is more powerful than intensity.”</strong> ✨
 </p>
+
 
 ---
 
