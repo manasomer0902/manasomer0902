@@ -70,3 +70,30 @@
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=manasomer0902&style=flat-square&color=green)
+
+
+### 🧩 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/manasomer0902/C_Projects">
+  <img src="https://img.shields.io/badge/C_Projects-C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C Projects" />
+</a>
+
+<a href="https://github.com/manasomer0902/Flappy_Bird_by_Manas">
+  <img src="https://img.shields.io/badge/Flappy_Bird_by_Manas-Python-yellowgreen?style=for-the-badge&logo=python&logoColor=white" alt="Flappy Bird" />
+</a>
+
+<a href="https://github.com/manasomer0902/python-code-for-digital-clock">
+  <img src="https://img.shields.io/badge/Digital_Clock-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Digital Clock" />
+</a>
+
+<a href="https://github.com/manasomer0902/python-code-for-youtube-video-downloader">
+  <img src="https://img.shields.io/badge/YouTube_Downloader-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="YouTube Downloader" />
+</a>
+
+<a href="https://github.com/manasomer0902/University_frontend">
+  <img src="https://img.shields.io/badge/University_Frontend-MERN-red?style=for-the-badge&logo=html5&logoColor=white" alt="University Frontend" />
+</a>
+
+</p>
