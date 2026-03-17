@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Manas Omer</h1>
 <h3 align="center">BCA Final Year Student | Aspiring Full Stack Developer</h3>
+<p align="center">
+🌐 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank"><b>🚀 View My Projects Live</b></a>
+</p>
 
+<p align="center">
+<a href="https://manasomer0902.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Projects;DSA+in+Java;Building+Real+World+Projects" />
+</p>
 <p align="center">
 💻 Passionate about building web applications and improving problem-solving skills.
 </p>
