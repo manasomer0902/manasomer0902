@@ -1,4 +1,4 @@
-<img width="1892" height="754" alt="image" src="https://github.com/user-attachments/assets/8362acc7-f1f5-48d4-bb6e-c360cc5de148" /><h1 align="center">Hi 👋, I'm Manas Omer</h1>
+<h1 align="center">Hi 👋, I'm Manas Omer</h1>
 <h3 align="center">BCA Final Year Student | Aspiring Full Stack Developer</h3>
 
 <p align="center">
