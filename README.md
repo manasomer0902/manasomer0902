@@ -17,10 +17,6 @@
 💻 Passionate about building web applications and improving problem-solving skills.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Development;MERN+Stack+Projects;Problem+Solving+with+Java;Building+Projects+and+Learning+Every+Day" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
