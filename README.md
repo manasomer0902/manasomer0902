@@ -50,19 +50,20 @@
 ### 🔗 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/manas-omer-6066b5287">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/manasomer0902">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>  
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Visitors](https://komarev.com/ghpvc/?username=manasomer0902&color=blue)
+<img src="https://komarev.com/ghpvc/?username=manasomer0902&color=blue&style=for-the-badge"/>
 
 </p>
 
