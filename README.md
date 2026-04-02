@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manasomer0902&theme=onestar&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=manasomer0902&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manasomer0902&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manasomer0902&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasomer0902&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=manasomer0902&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manasomer0902&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -79,30 +79,10 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/manasomer0902">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=University_frontend&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/manasomer0902">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=task-manager-api-assignment&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/manasomer0902">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=Event_Registration_Page_Frontend&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/manasomer0902">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=Mern_Auth_System&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
+- 🔥 [University Frontend](https://github.com/manasomer0902/university_frontend)
+- 🚀 [Task Manager API](https://github.com/manasomer0902/task-manager-api-assignment)
+- 🎯 [Event Registration Frontend](https://github.com/manasomer0902/Event_Registration_Page_Frontend)
+- 🔐 [MERN Auth System](https://github.com/manasomer0902/Mern_Auth_System)
 ---
 
 ## 🔗 Connect With Me
