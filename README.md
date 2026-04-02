@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manasomer0902&theme=onedark&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manasomer0902&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manasomer0902&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manasomer0902&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasomer0902&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasomer0902&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasomer0902&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
