@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Omer</h1>
-<h3 align="center">BCA Final Year Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">🚀 BCA Final Year Student | Aspiring Full Stack Developer</h3>
+
 <p align="center">
 🌐 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank"><b>🚀 View My Projects Live</b></a>
 </p>
@@ -10,35 +11,66 @@
 </a>
 </p>
 
+---
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Projects;DSA+in+Java;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Projects;DSA+in+Java;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
+
 <p align="center">
-💻 Passionate about building web applications and improving problem-solving skills.
+💻 Passionate about building scalable web applications and solving real-world problems.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
 - 🎓 Final Year **BCA Student**
-- 🌐 Learning **Full Stack Web Development (MERN Stack)**
-- 📚 Practicing **Data Structures and Algorithms in Java**
-- 🚀 Building real-world web projects
-- 📹 Sharing my learning journey on **TechRiseDaily**
+- 🌐 Learning **MERN Stack Development**
+- 📚 Practicing **DSA in Java**
+- 🚀 Building production-level projects
+- 📹 Creating content on **TechRiseDaily**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manasomer0902&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasomer0902&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasomer0902&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 📌 Featured Projects
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manasomer0902&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/manasomer0902/manasomer0902/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 📌 Featured Projects
 
 - 🎓 University Website (HTML, CSS, JavaScript)
 - 📝 DigiFest Event Registration System (Node.js, MongoDB, Express)
@@ -47,7 +79,7 @@
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
 
@@ -63,10 +95,14 @@
   <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=manasomer0902&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=manasomer0902&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </p>
 
 ---
 
-✨ *“Consistency is more powerful than intensity.”*
+## ✨ Quote
+
+<p align="center">
+<i>“Consistency is more powerful than intensity.”</i>
+</p>
