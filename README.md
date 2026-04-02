@@ -1,8 +1,6 @@
-<!-- 🌊 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Manas%20Omer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<h1 align="center">Hi 👋, I'm Manas Omer</h1>
-<h3 align="center">🚀 BCA Final Year Student | Aspiring Full Stack Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Manas+Omer;Full+Stack+Web+Developer;MERN+Stack+Projects;DSA+in+Java;Building+Real+World+Projects" />
+</p>
 
 <p align="center">
 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank">
