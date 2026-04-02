@@ -1,9 +1,8 @@
+<!-- 🌊 Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Manas%20Omer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Manas Omer</h1>
 <h3 align="center">🚀 BCA Final Year Student | Aspiring Full Stack Developer</h3>
-
-<p align="center">
-🌐 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank"><b>🚀 View My Projects Live</b></a>
-</p>
 
 <p align="center">
 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank">
@@ -13,6 +12,7 @@
 
 ---
 
+<!-- 🔥 Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Projects;DSA+in+Java;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
@@ -28,8 +28,8 @@
 - 🎓 Final Year **BCA Student**
 - 🌐 Learning **MERN Stack Development**
 - 📚 Practicing **DSA in Java**
-- 🚀 Building production-level projects
-- 📹 Creating content on **TechRiseDaily**
+- 🚀 Building real-world projects
+- 📹 Sharing journey on **TechRiseDaily**
 
 ---
 
@@ -37,6 +37,14 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manasomer0902&theme=algolia&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
@@ -65,7 +73,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/manasomer0902/manasomer0902/output/snake-dark.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/manasomer0902/manasomer0902/output/snake-dark.svg" />
 </p>
 
 ---
@@ -106,3 +114,6 @@
 <p align="center">
 <i>“Consistency is more powerful than intensity.”</i>
 </p>
+
+<!-- 🌊 Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
