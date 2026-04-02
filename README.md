@@ -65,7 +65,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/manasomer0902/manasomer0902/output/snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/manasomer0902/manasomer0902/output/snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
