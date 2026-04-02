@@ -1,6 +1,7 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Manas+Omer;Full+Stack+Web+Developer;MERN+Stack+Projects;DSA+in+Java;Building+Real+World+Projects" />
-</p>
+<!-- 🌊 Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Hi%20,%20I'm%20Manas%20Omer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<h3 align="center">🚀 BCA Final Year Student | Aspiring Full Stack Developer</h3>
+
 
 <p align="center">
 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank">
@@ -76,12 +77,31 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🎓 University Website (HTML, CSS, JavaScript)
-- 📝 DigiFest Event Registration System (Node.js, MongoDB, Express)
-- 🧾 Student Examination System (JSP, MySQL)
-- 🧠 DSA Problem Solutions in Java
+<p align="center">
+
+<a href="https://github.com/manasomer0902">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=University_frontend&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/manasomer0902">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=task-manager-api-assignment&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/manasomer0902">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=Event_Registration_Page_Frontend&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/manasomer0902">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasomer0902&repo=Mern_Auth_System&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
