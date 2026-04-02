@@ -46,8 +46,6 @@
 - 🧠 DSA Problem Solutions in Java
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=manasomer0902&color=blue)
----
 
 ### 🔗 Connect With Me
 
@@ -63,6 +61,9 @@
 <a href="https://manasomer0902.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>  
+
+![Visitors](https://komarev.com/ghpvc/?username=manasomer0902&color=blue)
+
 </p>
 
 ---
